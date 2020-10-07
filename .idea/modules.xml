@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
