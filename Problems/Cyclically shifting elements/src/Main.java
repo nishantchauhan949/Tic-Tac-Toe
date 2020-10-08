@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 class Main {
     public static void main(String[] args) {
@@ -12,15 +12,21 @@ class Main {
             arr[i] = scanner.nextInt();
         }
 
-        int curr = Integer.MIN_VALUE; //curr means current element
-        int next = Integer.MIN_VALUE;
+        int curr = arr[0]; //curr means current
+        int next = curr;
 
-        for (int i = 1; i < len; i++) {
-            if (i != len - 1) {
-
+        for (int i = 0; i < len; i++) {
+            if (i < len - 1) {
+                curr = next;
+                next = arr[i + 1];
+                arr[i + 1] = curr;
             } else {
-
+                arr[0] = next;
             }
+        }
+
+        for (int var : arr) {
+            System.out.print(var + " ");
         }
     }
 }
