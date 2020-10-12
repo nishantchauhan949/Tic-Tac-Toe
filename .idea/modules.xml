@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Tic-Tac-Toe.Problems-Cyclically_shifting_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Tic-Tac-Toe.Problems-Cyclically_shifting_elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Tic-Tac-Toe.Problems-Cyclically_shifting_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Tic-Tac-Toe.Problems-Cyclically_shifting_elements.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Tic-Tac-Toe.Problems-Cyclically_shifting_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cyclically shifting elements/Tic-Tac-Toe.Problems-Cyclically_shifting_elements.test.iml" />
