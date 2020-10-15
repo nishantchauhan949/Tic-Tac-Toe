@@ -17,8 +17,6 @@ class Main {
 
         int numberOfConsecutiveSeatsUserWant = s.nextInt();
 
-//        int rowWhereUserCanGetConsecutiveSeats = 0;
-
         for (int a = 0; a < n; a++) {
             int count = 0;
 
